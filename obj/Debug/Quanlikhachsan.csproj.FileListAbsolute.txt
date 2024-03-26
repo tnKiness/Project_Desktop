@@ -1,0 +1,83 @@
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\Quanlikhachsan.exe.config
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\Quanlikhachsan.exe
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\Quanlikhachsan.pdb
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\EntityFramework.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\Guna.UI2.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\EntityFramework.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.csproj.AssemblyReference.cache
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.Form1.resources
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.Properties.Resources.resources
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.csproj.GenerateResource.cache
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.csproj.CoreCompileInputs.cache
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikh.8E71CA07.Up2Date
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.exe
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.pdb
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.Dashboard.resources
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.All_User_Control.UC_AddRoom.resources
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.All_User_Control.UC_CustomerRes.resources
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.All_User_Control.UC_Checkout.resources
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.exe.licenses
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.All_User_Control.UC_CustomerDetails.resources
+C:\Users\MSI VN\Desktop\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.All_User_Control.UC_Employee.resources
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\Quanlikhachsan.exe.config
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\Quanlikhachsan.exe
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\Quanlikhachsan.pdb
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\EntityFramework.dll
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\Guna.UI2.dll
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\EntityFramework.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.csproj.AssemblyReference.cache
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.All_User_Control.UC_AddRoom.resources
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.All_User_Control.UC_Checkout.resources
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.All_User_Control.UC_CustomerDetails.resources
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.All_User_Control.UC_CustomerRes.resources
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.All_User_Control.UC_Employee.resources
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.Dashboard.resources
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.Form1.resources
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.Properties.Resources.resources
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.csproj.GenerateResource.cache
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.exe.licenses
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikh.8E71CA07.Up2Date
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.exe
+C:\Users\Admin1\Downloads\Quanlikhachsan\Quanlikhachsan\obj\Debug\Quanlikhachsan.pdb

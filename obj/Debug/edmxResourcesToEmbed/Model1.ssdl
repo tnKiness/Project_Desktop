@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyHotelModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="rooms">
+    <Key>
+      <PropertyRef Name="roomid" />
+    </Key>
+    <Property Name="roomid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="roomNo" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="roomType" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="bed" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="price" Type="bigint" Nullable="false" />
+    <Property Name="booked" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="MyHotelModelStoreContainer">
+    <EntitySet Name="rooms" EntityType="Self.rooms" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
